@@ -1,14 +1,14 @@
 { 
-  "name": "KING-MD",
-  "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
+  "name": "𝐒𝐡𝐞𝐡𝐙𝐚𝐝𝐚 👀🩶",
+  "description": "A Whatsapp md bot built By Shehzada to make experience better",
+  "logo": "https://telegra.ph/file/262d16c26ab5228bdbe01.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪", "𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪", "𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪","𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "𝐒𝐡𝐞𝐡𝐙𝐚𝐝𝐚 👀🩶"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot logo",
-     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
+     "value": "https://telegra.ph/file/262d16c26ab5228bdbe01.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -67,7 +67,7 @@
     "BOT_NAME": {
 	    "description": "Choose your bot name",
 	    "required": "true",
-	    "value": "*KING-MD*"
+	    "value": "𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪"
 },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
@@ -80,7 +80,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "923431962180"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
