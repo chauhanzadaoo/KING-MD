@@ -1,1 +1,1 @@
-// const naveeddogar = require('../config.js)
+// const 𓆩 𝆺꯭𝅥𝐒́𝐇𝐄̨𝐇𝐙̌𝐀̂𝐃𝐀̄𝆺꯭𝅥🍒 𓆪 = require('../config.js)
